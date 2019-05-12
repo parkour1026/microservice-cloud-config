@@ -67,6 +67,6 @@ eureka:
     instanceId: ${spring.application.name}:${server.port}
     prefer-ip-address: true
   
-  #自定义配置信息
-  emp:
-    name: zhangsan
+#自定义配置信息
+emp:
+  name: zhangsan
