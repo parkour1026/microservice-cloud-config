@@ -69,4 +69,4 @@ eureka:
   
 #自定义配置信息
 emp:
-  name: lisi
+  name: wangwu
