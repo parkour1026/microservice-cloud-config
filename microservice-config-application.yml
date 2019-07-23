@@ -10,7 +10,7 @@ spring:
     name: microservice-config-dev
 ---
 server:
-  port:4002
+  port: 4002
 spring:
   profiles: prod
   application:
