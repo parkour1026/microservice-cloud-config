@@ -2,7 +2,7 @@ spring:
   profiles:
     active: dev
 emp:
-  name: zhangsan
+  name: lisi
 ---
 server:
   port: 8001
